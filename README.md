@@ -65,16 +65,19 @@ Pour vous connecter en utilisateur lambda, vous pouvez créer un utilisateur via
 Le site propose différentes fonctionnalités en fonction de l'utilisateur et de si celui-ci est connecté ou non :
 
 - Consulter des recettes : <br/>
-A l'ouverture du site vous arrivez sur l'accueil de celui-ci dans cette endroit vous aurez la possibilité de consulter les 3 dernières recettes dans la liste des recettes en cliquant sur celle-ci. 
-<p align="center"><img src="https://github.com/omar-amrouss/RecettesManagment/assets/133509604/722e24b2-2061-4877-bc42-55cd98b5ff74"
- width="600" title="home"></p>
+A l'ouverture du site vous arrivez sur l'accueil de celui-ci dans cette endroit vous aurez la possibilité de consulter les 3 dernières recettes dans la liste des recettes en cliquant sur celle-ci.
+
+![image]https://github.com/omar-amrouss/RecettesManagment/assets/133509604/722e24b2-2061-4877-bc42-55cd98b5ff74O)
 
 Vous pouvez aussi sur le header du siteweb cliquer sur "Recettes" afin d'accéder à la liste compléte des recettes que vous pourrez par la suite consulter.
-<p align="center"><img src="https://github.com/omar-amrouss/RecettesManagment/assets/133509604/79be8043-f06f-4c93-9b9d-a4b1f464021e" width="600" title="recette"></p>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/79be8043-f06f-4c93-9b9d-a4b1f464021e)
 
 - Saisir un formulaire de contact : <br/>
 Il est possible de saisir un formulaire de contact dans l'onglet "Contact" du header et d'avoir un feedback de l'envoie de celui-ci juste après son envoie.
-<p align="center"><img src="https://github.com/omar-amrouss/RecettesManagment/assets/133509604/72042707-d2a4-4756-86c1-45580c970171" width="600" title="contact"></p>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/d54f64df-f299-47e0-80a0-c53a723132f0)
+
 
 - l'Inscription : <br/>
 Il est possible pour un utilisateur de s'inscrire pour avoir un comtpe utilisateur sur le site en cliquant sur "Register".
