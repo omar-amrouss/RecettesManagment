@@ -81,41 +81,61 @@ Il est possible de saisir un formulaire de contact dans l'onglet "Contact" du he
 
 - l'Inscription : <br/>
 Il est possible pour un utilisateur de s'inscrire pour avoir un comtpe utilisateur sur le site en cliquant sur "Register".
-<p align="center"><img src="https://i.postimg.cc/85vbPCPx/register.png" width="600" title="register"></p>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/a6cbcf0b-d86f-44cc-b2e1-6785d3c00922)
 
 - l'Authentification : <br/>
 Il est également possible si l'utilisateur possède déjà un compte utilisateur de se connecter directement au site en cliquant sur "Login".
-<p align="center"><img src="https://i.postimg.cc/fT1TYTw8/login.png" width="600" title="login"></p>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/78c082fd-b24e-4dc1-94c7-0d18151f3811)
+
 
 - Ajout de recette avec fichier média : <br/>
 Après s'être identifié l'utilisateur aura à présent la possiblité d'ajouter des recettes en cliquant sur le bouton "ajouter une recette".
-<p align="center"><img src="https://i.postimg.cc/x8t5B4dd/add-Recette.png" width="600" title="addRecette"></p>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/aba1ba53-f4c8-4507-bd2d-c875c2e8c827)
+
+
 
 Ce bouton amène l'utilisateur vers le formulaire d'ajout d'une recette dans lequel il pourra saisir les différentes informations de la recette et ajouter une image pour celle-ci, il aura également la possibilité d'avoir une "preview" de l'image avant l'ajout de celle-ci.
-<p align="center"><img src="https://i.postimg.cc/3rVPBtqZ/add-Recette-Form.png" width="600" title="addRecetteForm"></p>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/759d0ef0-70eb-4d7a-9886-f0e4952218a3)
+
 
 - Modifier et Supprimer : <br/>
 Après l'ajout d'une recette l'utilisateur propriétaire (le créateur de la recette) aura la possibilité si il le souhaite de modifier ou de supprimer celle-ci en consultant la liste des recettes dans l'onglet "Recette". 
-<p align="center"><img src="https://i.postimg.cc/QMC2mvj0/proprio-Recette.png" width="600" title="RecetteCreator"></p> <br/>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/20b7e071-b738-4298-82ea-21993aeec24a)
+
 
 En cliquant sur l'icone de modification l'utilisateur va accéder au formulaire de modification, formulaire dans lequel les informations de la recette seront déjà pré-rempli. L'utilisateur n'aura plus qu'a y mettre ces modifications.
-<p align="center"><img src="https://i.postimg.cc/Gtn3Zb2c/editForm.png" width="600" title="RecetteCreator"></p> <br/>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/b5bbdfaa-27bf-4512-89bd-f15695fc1a84)
+
 
 L'utilisateur aura aussi la possibiltié de supprimer sa recette en cliquant sur l'icône de suppression, résultant à la suppression de sa recette de la base de donnée.
-<p align="center"><img src="https://i.postimg.cc/PqZ5KLX6/delete.png" width="600" title="RecetteDelete"></p> <br/>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/ec7b01b0-a071-46ea-a310-19281dffc3e2)
+
 
 - Visualisation du détail d'une recette : <br/>
 L'utilisateur peut visualiser le détail d'une recette en cliquant sur l'oeil dans la liste des recettes (visible sur la capture d'écran précédente). Il sera alors redirigé vers la page suivante.
-<p align="center"><img src="https://i.postimg.cc/MHtNg47C/Screenshot-2021-04-21-Cooking-Welcome-2.png" width="600" title="CommentOnRecette"></p> <br/>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/fd146387-ecd8-4f4b-b5fe-f4236f908182)
+
 
 - Liker un post : <br/>
 Un utilisateur connecté a la possibilité de liker une recette. Si il n'est pas connecté, il pourra voir le nombre de likes, mais ne pourra pas ajouter le sien.
-<p align="center"><img src="https://i.postimg.cc/d0129f37/Screenshot-2021-04-21-Cooking-Welcome-3.png" width="600" title="CommentOnRecette"></p> <br/>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/3f751e9f-93d8-4e23-9aae-5403c7fad444)
+
 
 - Ecrire des commentaires : <br/>
 Après s'être connecté l'utilisateur va débloquer un nouvel aspect lors de la consultation d'une recette qui est la possibilité d'écrire des commentaires. (Soumission du formulaire en Ajax).
 De plus, les utilisateurs peuvent supprimer les commentaires des recettes qui leurs appartiennent.
-<p align="center"><img src="https://i.postimg.cc/xdRDVc3J/Screenshot-2021-04-21-Cooking-Welcome.png" width="600" title="CommentOnRecette"></p> <br/>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/1afb158f-4e00-4e71-a5ec-0e0ef7926434)
+
 
 
 - Gestion des recettes par l'Administrateur : <br/>
@@ -124,7 +144,9 @@ Actuellement le site ne dispose que d'un administrateur par défaut. <br />
 Pour rappel les identifiants de l'administrateur sont: admin@admin.com avec pour mot de passe: adminadmin . <br/>
 **En tant qu'administrateur celui-ci a accés à toutes les fonctionnalités présenter précédement et cela pour toutes les recettes. 
 Cette à dire consulter, modifier, supprimer, ajouter des recettes et même écrire des commentaires sur n'importe quelle recette.**
-<p align="center"><img src="https://i.postimg.cc/VsKy2jNJ/Admin-View.png" width="600" title="AdminView"></p> <br/>
+
+![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/6c48eacd-8d3c-48e8-a8de-afa8773c30d6)
+
 
 - Autres fonctionnalités : <br/>
 Une vérification des formulaires est effectuer avant la validation de chaque formulaire afin d'éviter tout bug.
