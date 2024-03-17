@@ -156,6 +156,7 @@ Les premières difficultés que nous avons rencontrées sont dues à des problè
 Nous avons aussi essayé en vain de mettre en place des components Vuejs, malheureusement cela n'a pas abouti et nous nous sommes contraints à des vues classiques.
 Hormis ça, les difficultés mineurs sont dues au fait que nous ne connaissions pas ce framework, nous avons donc passé beaucoup de temps à nous documenter sur internet.
 <br/>
+
 Toutefois, nous avons beacoup appris durant ce projet, il reste donc une bonne experience.
 
 
