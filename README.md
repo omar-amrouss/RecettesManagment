@@ -66,7 +66,7 @@ Le site propose différentes fonctionnalités en fonction de l'utilisateur et de
 
 - Consulter des recettes : <br/>
 A l'ouverture du site vous arrivez sur l'accueil de celui-ci dans cette endroit vous aurez la possibilité de consulter les 3 dernières recettes dans la liste des recettes en cliquant sur celle-ci. 
-<p align="center"><img src="![image](https://github.com/omar-amrouss/RecettesManagment/assets/133509604/722e24b2-2061-4877-bc42-55cd98b5ff74)"
+<p align="center"><img src="https://github.com/omar-amrouss/RecettesManagment/assets/133509604/722e24b2-2061-4877-bc42-55cd98b5ff74"
  width="600" title="home"></p>
 
 Vous pouvez aussi sur le header du siteweb cliquer sur "Recettes" afin d'accéder à la liste compléte des recettes que vous pourrez par la suite consulter.
