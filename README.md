@@ -70,11 +70,11 @@ A l'ouverture du site vous arrivez sur l'accueil de celui-ci dans cette endroit 
  width="600" title="home"></p>
 
 Vous pouvez aussi sur le header du siteweb cliquer sur "Recettes" afin d'accéder à la liste compléte des recettes que vous pourrez par la suite consulter.
-<p align="center"><img src="https://i.postimg.cc/qv6jqQRN/recette.png" width="600" title="recette"></p>
+<p align="center"><img src="https://github.com/omar-amrouss/RecettesManagment/assets/133509604/79be8043-f06f-4c93-9b9d-a4b1f464021e" width="600" title="recette"></p>
 
 - Saisir un formulaire de contact : <br/>
 Il est possible de saisir un formulaire de contact dans l'onglet "Contact" du header et d'avoir un feedback de l'envoie de celui-ci juste après son envoie.
-<p align="center"><img src="https://i.postimg.cc/44h6znG0/contact.png" width="600" title="contact"></p>
+<p align="center"><img src="https://github.com/omar-amrouss/RecettesManagment/assets/133509604/72042707-d2a4-4756-86c1-45580c970171" width="600" title="contact"></p>
 
 - l'Inscription : <br/>
 Il est possible pour un utilisateur de s'inscrire pour avoir un comtpe utilisateur sur le site en cliquant sur "Register".
